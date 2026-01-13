@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sami
+# Hi there 👋 I'm Sami 
 
 I'm a **Computer Science student** and an **aspiring Software & Cloud Engineer** who enjoys building practical, real-world projects using **AI, cloud computing, and modern development tools**.  
 I focus on learning by building and improving projects step by step.
