@@ -11,15 +11,6 @@ I enjoy solving real-world problems, writing clean and scalable code, and learni
 
 ---
 
-## 💼 What I Bring
-
-* Strong foundation in **software engineering principles** and **data-driven development**
-* Experience across **frontend, backend, and machine learning pipelines**
-* Comfortable working with **REST APIs, databases, and cloud platforms**
-* Ability to take projects from **idea → implementation → deployment**
-* Fast learner with a strong **problem-solving and ownership mindset**
-
----
 
 ## 🛠 Technical Skills
 
