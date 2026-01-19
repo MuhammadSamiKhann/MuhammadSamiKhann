@@ -1,73 +1,53 @@
-# Hi there 👋 I'm Sami
-
-I'm a **Computer Science student** and an **aspiring Software & Cloud Engineer** who enjoys building practical, real-world projects using **AI, cloud computing, and modern development tools**.  
-I focus on learning by building and improving projects step by step.
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Final Year CS Student  
-- ☁️ Cloud Computing & AWS enthusiast  
-- 🤖 Interested in AI, Machine Learning & Data Science  
-- 🧠 Learning by building academic & real-world projects  
-- 🛠️ Comfortable with both backend and frontend basics  
+## 👋 Muhammad Sami Khan
+
+**Software Engineer | Computer Science **
+
+**Computer Science** Student. I’m a results-driven developer with hands-on experience building **full-stack applications, machine learning systems, and cloud-based solutions**.
+
+I enjoy solving real-world problems, writing clean and scalable code, and learning new technologies quickly. I’m actively seeking **software engineering / full-stack / AI-related roles** where I can contribute and grow.
 
 ---
 
-## 🧩 Final Year Project
-### **ProLabour – Smart Job Matching Platform for Skilled Laborers**
-- Intelligent job matching system  
-- Focus on accessibility for skilled labor workers  
-- Backend logic, data handling, and system design  
-- Currently in final implementation phase  
+## 💼 What I Bring
+
+* Strong foundation in **software engineering principles** and **data-driven development**
+* Experience across **frontend, backend, and machine learning pipelines**
+* Comfortable working with **REST APIs, databases, and cloud platforms**
+* Ability to take projects from **idea → implementation → deployment**
+* Fast learner with a strong **problem-solving and ownership mindset**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-### Programming & Development
-- Python  
-- JavaScript  
-- HTML & CSS  
-- SQL (MariaDB)
+**Programming & Frameworks**
+C++, C, Python, JavaScript, React, Flutter, Node.js, HTML/CSS
 
-### AI / Machine Learning
-- Data preprocessing & feature engineering  
-- SVM, Random Forest, Neural Networks  
-- Model evaluation (Accuracy, Precision, Recall, F1-score)  
-- AI-based **Cancer Prediction System**
+**Databases & Cloud**
+MySQL, MongoDB, AWS
 
-### Cloud & Systems
-- AWS (EC2, Ubuntu Server)  
-- Hybrid Cloud Architecture  
-- Linux (Ubuntu)  
-- Git & GitHub
-
-### Mobile & Web
-- Flutter (Firebase integration, notifications)  
-- Flask (AI model deployment)  
-- Basic frontend integration for ML apps  
+**Tools & Practices**
+Git, Unity (C#), Figma, Canva, UML Modeling, API Integration, System Documentation
 
 ---
 
-## 📊 Academic & Practical Projects
-- 🧠 **Cancer Prediction AI System**  
-  - SVM, Neural Network & Random Forest models  
-  - Web interface with live prediction feedback  
-  - Evaluation metrics & visualizations  
+## 🎯 Interests
 
-- 🐶🐱 **Dog vs Cat Image Similarity Project**  
-  - Image-based ML model  
-  - Returns similar images from dataset  
-
-- 🔐 **Cyber Security Case Study (PwC – Chatter Platform)**  
-  - Security risk analysis  
-  - Platform improvement recommendations  
-
-- ☁️ **Cloud Computing Assignments & Architecture Designs**  
-  - AWS services  
-  - Cloud Adoption Framework concepts  
+* Full-Stack Development
+* Artificial Intelligence & Machine Learning
+* Cloud Computing
+* Scalable System Design
 
 ---
 
-⭐ *I believe in consistency, learning by doing, and improving one commit at a time.*
+## 📫 Contact
+
+* **LinkedIn:** [linkedin.com/in/muhammad-sami-khan](https://www.linkedin.com/in/muhammad-sami-khan)
+* **Email:** [samikhan.dev1@gmail.com](mailto:samikhan.dev1@gmail.com)
+
+---
+
+
