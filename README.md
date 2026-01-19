@@ -45,7 +45,7 @@ Git, Unity (C#), Figma, Canva, UML Modeling, API Integration, System Documentati
 
 ## 📫 Contact
 
-* **LinkedIn:** [linkedin.com/in/muhammad-sami-khan](https://www.linkedin.com/in/muhammad-sami-khan)
+* **LinkedIn:** [linkedin.com/in/muhammad-sami-khan](www.linkedin.com/in/muhammad-sami-khan-22623b348)
 * **Email:** [samikhan.dev1@gmail.com](mailto:samikhan.dev1@gmail.com)
 
 ---
