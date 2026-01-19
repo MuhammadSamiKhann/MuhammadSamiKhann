@@ -3,7 +3,7 @@
 
 ## 👋 Muhammad Sami Khan
 
-**Software Engineer | Computer Science **
+Software Engineer | Computer Science
 
 **Computer Science** Student. I’m a results-driven developer with hands-on experience building **full-stack applications, machine learning systems, and cloud-based solutions**.
 
