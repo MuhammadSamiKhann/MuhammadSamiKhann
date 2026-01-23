@@ -3,8 +3,6 @@
 
 ## 👋 Muhammad Sami Khan
 
-Software Engineer | Computer Science
-
 **Computer Science** Student. I’m a results-driven developer with hands-on experience building **full-stack applications, machine learning systems, and cloud-based solutions**.
 
 I enjoy solving real-world problems, writing clean and scalable code, and learning new technologies quickly. I’m actively seeking **software engineering / full-stack / AI-related roles** where I can contribute and grow.
@@ -22,15 +20,6 @@ MySQL, MongoDB, AWS
 
 **Tools & Practices**
 Git, Unity (C#), Figma, Canva, UML Modeling, API Integration, System Documentation
-
----
-
-## 🎯 Interests
-
-* Full-Stack Development
-* Artificial Intelligence & Machine Learning
-* Cloud Computing
-* Scalable System Design
 
 ---
 
